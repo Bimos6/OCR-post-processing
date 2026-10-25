@@ -17,6 +17,7 @@ candidate/
 ├── postprocess.py
 ├── evaluate.py
 ├── answers.jsonl                 # готовые ответы для test
+├── otchet_ocr_passport.pdf       # отчет по выполненной работе
 ├── data/
 │   ├── train_predictions.jsonl
 │   ├── train_labels.jsonl
